@@ -1,0 +1,19 @@
+===== 1.0.4 ======
+> FIX SECURE CONFIG
+> FIX DEBUG 3 TO 0
+> MULTY 
+- SUBJECT 
+- FROM NAME 
+- FROM EMAIL
+
+===== 1.0.5 ======
+> Add Replace random (subject , from name , from email ) by command
+> Bug Fix ErrorInfo
+> Add multy smtp
+> Remove Krandom (text generator)
+
+--------------------------------------------------------- 
+** FREE UPDATE , PLEAS VISIT BMARKET.OR.ID FOR UPDATE **
+--------------------------------------------------------- 
+------------ THE BEST MARKET TOOLS ----------------------
+---------------------------------------------------------
